@@ -19,9 +19,9 @@ One of my first programs for Windows was Deinen Blick - an image viewer.
 The name is in German, because I liked German and I studied it, on my own, like programming. Most likely Rammstein is to blame.
 In fact, it was a terrible program, with a lot of graphic elements and a very strange interface.
 
-[Deinen Blick: Main](assets/deinen_blick_001.png)
+![Deinen Blick: Main](assets/deinen_blick_001.png)
 
-[Deinen Blick: Settings](assets/deinen_blick_002.png)
+![Deinen Blick: Settings](assets/deinen_blick_002.png)
 
 Thanks to the Internet, I have a little more information about programming.
 But all the same, offline sources of information dominated and there were few of them.
