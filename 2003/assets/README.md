@@ -14,7 +14,7 @@ In this folder you can find additional materials related to 2003.
 
 ## Web projects
 
-star: [www.hypertech.ru](hypertech.md)
+:star: [www.hypertech.ru](hypertech.md)
 
 ## Unfinished
 

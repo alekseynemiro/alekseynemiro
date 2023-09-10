@@ -1,6 +1,6 @@
 # Game
 
-[Developing](2003-12-14_14-41.png)
+![Developing](2003-12-14_14-41.png)
 
 This is a game engine that I developed in the second half of 2003.
 
@@ -8,7 +8,7 @@ My [first](../../../2002/assets/jager3) and [second](../../../2002/assets/wid) a
 
 In this engine I solved this problem.
 
-[Game](2003-12-14_23-16.png)
+![Game](2003-12-14_23-16.png)
 
 Interestingly, I used text markers to create the maps. However, at that time I already had experience working with binary data and could easily use binary maps. But apparently, for the convenience of developing maps, I decided to use text. Although I already had a map editor.
 
@@ -16,11 +16,11 @@ Interestingly, I used text markers to create the maps. However, at that time I a
 
 I also made efforts to achieve better performance. But this is still Visual Basic 6.0 and I did not use DirectX.
 
-[Game](2003-12-14_16-41.png)
+![Game](2003-12-14_16-41.png)
 
 I still used graphic elements from various other games. However, I drew the main character myself, in MS Paint.
 
-[Game](2003-12-16_14-07.png)
+![Game](2003-12-16_14-07.png)
 
 The project was not finished.
 

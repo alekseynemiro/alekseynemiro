@@ -8,11 +8,11 @@ I continued to master HTML and CSS. Instead of [MS Word](../2002), I used Macrom
 
 I was accepted into the development team of the VBNet.RU website and for the first time I became acquainted with web programming using ASP/VBScript and also began working with databases.
 
-I created a new section on the VBNet.RU website - [Workshop](assests/vbnet_workshop.jpg), and also significantly improved the forum.
+I created a new section on the VBNet.RU website - [Workshop](assets/vbnet_workshop.jpg), and also significantly improved the forum.
 
 Besides this, I made several XSS and SQL Injection vulnerabilities, which I quickly fixed myself.
 
-Ultimately, I created my first web project in ASP - [HyperTech.RU](assests/hypertech.md).
+Ultimately, I created my first web project in ASP - [HyperTech.RU](assets/hypertech.md).
 
 I continued to actively write programs in Visual Basic 6.0. But besides this, I began to work more actively with Delphi.
 
@@ -27,17 +27,17 @@ At the end of the year I had to stop my activities due to my military service.
 
 ## Applications for Windows
 
-:star: [Drawing Hours v3.0-v3.4](assests/drawing_hours.md) - skins for the standard clock on the Windows taskbar  
-:star: [Notebook](assests/notebook.md) - text note program  
-:star: [LinkWord](assests/linkword.md) - creating hyperlinks from text for SEO
+:star: [Drawing Hours v3.0-v3.4](assets/drawing_hours.md) - skins for the standard clock on the Windows taskbar  
+:star: [Notebook](assets/notebook.md) - text note program  
+:star: [LinkWord](assets/linkword.md) - creating hyperlinks from text for SEO
 
 ## Casual games
 
-:star: [Flying in Bottom](assests/flying_in_bottom.md) - mouse clicker
+:star: [Flying in Bottom](assets/flying_in_bottom.md) - mouse clicker
 
 ## Web projects
 
-star: [www.hypertech.ru](assests/hypertech.md)
+:star: [www.hypertech.ru](assets/hypertech.md)
 
 ## Collaborative web projects
 
