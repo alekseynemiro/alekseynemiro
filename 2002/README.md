@@ -22,13 +22,13 @@ It was also one of the active communities of Visual Basic programmers, where, am
 
 During the year I released several of my Visual Basic 6.0 programs:
 
-:star: [Drawing Hours](assets/drawing_hours.md) - skins for the standard clock on the Windows taskbar
-:star: [MyTime](assets/mytime.md) - alarm clocks
+:star: [Drawing Hours](assets/drawing_hours.md) - skins for the standard clock on the Windows taskbar  
+:star: [MyTime](assets/mytime.md) - alarm clocks  
 :star: [Golden Notepad](assets/notepad.md) - just notepad
 
 Also, I did not forget [why I decided to become a programmer](../1998) and actively worked on the development of casual games, also in Visual Basic 6.0:
 
-:star: [Balls](assets/balls.md) - memory, matching pairs
+:star: [Balls](assets/balls.md) - memory, matching pairs  
 :star: [Flies](assets/flies.md) - 2D fly shooter using mouse cursor
 
 But there were a couple more projects: [Jager 3](assets/jager3) and [W.I.D](assets/wid).
