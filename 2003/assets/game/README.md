@@ -12,7 +12,7 @@ In this engine I solved this problem.
 
 Interestingly, I used text markers to create the maps. However, at that time I already had experience working with binary data and could easily use binary maps. But apparently, for the convenience of developing maps, I decided to use text. Although I already had a map editor.
 
-[Map editor](2003-12-14_23-22.png)
+![Map editor](2003-12-14_23-22.png)
 
 I also made efforts to achieve better performance. But this is still Visual Basic 6.0 and I did not use DirectX.
 
