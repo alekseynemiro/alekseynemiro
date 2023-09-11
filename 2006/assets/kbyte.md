@@ -6,8 +6,10 @@ In fact, this is a logical continuation of VBNet.RU and [HyperTech.ru](../../200
 
 I started developing the project in 2005. Initially, the project was called wTech - Web Technologies, and then 3t(ech) - Free Technologies.
 
+*First logo*
 ![Free Technologies - first logo](3tech_logo.gif)
 
+*3tech - Main page*
 ![3tech](3tech.jpg)
 
 The project was written in ASP.NET 1.0 using MS Access. In fact, the first version was made in the style of Classic ASP, but using some of the innovations that appeared in .NET.
