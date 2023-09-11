@@ -8,7 +8,7 @@ I started developing the project in 2005. Initially, the project was called wTec
 
 ![Free Technologies - first logo](3tech_logo.gif)
 
-![3tech](3t.jpg)
+![3tech](3tech.jpg)
 
 The project was written in ASP.NET 1.0 using MS Access. In fact, the first version was made in the style of Classic ASP, but using some of the innovations that appeared in .NET.
 
