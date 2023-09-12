@@ -2,7 +2,7 @@
 
 This is my latest author project in Visual Basic 6.0.
 
-This is a continuation of the development of the [game engine](../../2003/assets/game), which I did not finish before joining the army in 2003.
+This is a continuation of the development of the [game engine](../../../2003/assets/game), which I did not finish before joining the army in 2003.
 
 In this project, I solved many problems that were in the first version of the engine.
 
