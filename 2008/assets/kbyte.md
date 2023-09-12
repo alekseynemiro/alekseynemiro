@@ -9,8 +9,8 @@ But it was just an idea.
 
 **:earth_africa: [Open in WebArchive](https://web.archive.org/web/20081219044655/http://kbyte.ru)**
 
-![Kbyte.Ru v4.5](kbyte.png)
+![Kbyte.Ru v4.5](kbyte.png)  
 *Kbyte.Ru v4.5*
 
-![Kbyte.Ru v5.0 concept](kbyte_concept.png)
-*Concept*
+![Kbyte.Ru v5.0 design sketches](kbyte_concept.png)  
+*Design sketches of Kbyte.Ru v5.0*

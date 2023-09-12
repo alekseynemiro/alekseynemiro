@@ -21,7 +21,7 @@ We have developed seven plugins and five macros:
 * OpenenForms - technical macro that allows to view the insides of program elements
 * Scaner - Network Port Scanner
 * WindowCaptionClock - macro displays the system time in the program title
-* MemoryGame - memory game, reincarnation of [Balls](../../2002/aasets/balls.md)
+* MemoryGame - memory game, reincarnation of [Balls](../../2002/assets/balls.md)
 * Sudoku - casual game
 * Tetris - casual game
 
