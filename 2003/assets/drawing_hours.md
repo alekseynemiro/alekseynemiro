@@ -8,6 +8,6 @@ This version continues the development of the skin file format. New opportunitie
 > Author does NOT guarantee the functionality of the presented binary files.
 > Author is NOT responsible for any damage that may occur when running or using the presented binary files.
 
-:floppy_disk: [Download Drawing Hours v.3.0.0.3](drawing_hours_3x.exe)
+**:floppy_disk: [Download Drawing Hours v.3.0.0.3](drawing_hours_3x.exe)**
 
 ![Drawing Hours v.3.0.0.3](dh33.gif)

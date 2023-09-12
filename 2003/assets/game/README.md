@@ -30,4 +30,4 @@ You can download one of the latest test builds of the project:
 > Author does NOT guarantee the functionality of the presented binary files.
 > Author is NOT responsible for any damage that may occur when running or using the presented binary files.
 
-:floppy_disk: [Download](Project1.zip)
+**:floppy_disk: [Download](Project1.zip)**

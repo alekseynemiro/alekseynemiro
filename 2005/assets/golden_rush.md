@@ -12,7 +12,7 @@ The chances of winning for both the computer and the player are almost equal.
 > Author does NOT guarantee the functionality of the presented binary files.
 > Author is NOT responsible for any damage that may occur when running or using the presented binary files.
 
-:floppy_disk: [Download Golden Rush v1.0](golden_rush_10_light.exe)
+**:floppy_disk: [Download Golden Rush v1.0](golden_rush_10_light.exe)**
 
 ![Golden Rush](golden_rush_init.png)
 

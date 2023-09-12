@@ -27,6 +27,6 @@ The project operated for a year. Most of the time, in my absence.
 Before I left for the army, I warned the hosting company - [mtw.ru](https://mtw.ru/) that I would not be able to pay for their services. Hosting did not kill the project.
 The project ended due to the expiration of the domain name registration.
 
-:earth_africa: [Open in WebArchive](http://web.archive.org/web/20031202161534/hypertech.ru)
+**:earth_africa: [Open in WebArchive](http://web.archive.org/web/20031202161534/hypertech.ru)**
 
 ![HyperTech.ru](hypertech.png)

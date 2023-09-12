@@ -10,7 +10,7 @@ Program for storing passwords.
 > Author does NOT guarantee the functionality of the presented binary files.
 > Author is NOT responsible for any damage that may occur when running or using the presented binary files.
 
-:floppy_disk: [Download PassMe v1.0](passme_1x.exe)
+**:floppy_disk: [Download PassMe v1.0](passme_1x.exe)**
 
 ![PassMe](passme_main.png)
 

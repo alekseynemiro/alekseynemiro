@@ -17,6 +17,6 @@ The v5 of the game was shareware, but it was not in great demand. In the end, I 
 > Author does NOT guarantee the functionality of the presented binary files.
 > Author is NOT responsible for any damage that may occur when running or using the presented binary files.
 
-:floppy_disk: [Download Balls v1.0](balls_10.zip)  
-:floppy_disk: [Download Balls v4.0](balls_40.zip)  
-:floppy_disk: [Download Balls v5.0](balls_5000004.exe) - doesn't work for me
+**:floppy_disk: [Download Balls v1.0](balls_10.zip)**  
+**:floppy_disk: [Download Balls v4.0](balls_40.zip)**  
+**:floppy_disk: [Download Balls v5.0](balls_5000004.exe)** - doesn't work for me

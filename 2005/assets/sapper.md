@@ -16,7 +16,7 @@ As the user progresses through levels, the number of mines on the field increase
 > Author does NOT guarantee the functionality of the presented binary files.
 > Author is NOT responsible for any damage that may occur when running or using the presented binary files.
 
-:floppy_disk: [Download Sapper v1.0](saper_v10_light.exe)
+**:floppy_disk: [Download Sapper v1.0](saper_v10_light.exe)**
 
 ![Sapper](sapper_rules.png)
 
