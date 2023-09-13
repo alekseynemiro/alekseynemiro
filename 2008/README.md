@@ -47,7 +47,8 @@ Also, this year I started writing articles for the paper magazine Hard'n'Soft on
 
 ## Articles
 
-:page_facing_up: [Автоматизация поиска SQL Injection](articles/SQL_Injection.md) :ru:
+:page_facing_up: [Автоматизация поиска SQL Injection](articles/SQL_Injection.md) :ru:  
+:page_facing_up: [Работа с базами данных MySql в Perl](articles/Perl_Databases.md) :ru:
 
 ---
 Aleksey Nemiro  
