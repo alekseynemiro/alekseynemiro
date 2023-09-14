@@ -50,13 +50,13 @@ Thus, users could continue to work with the site, but sometimes, for example, no
 On average, in the first half of 2010, the site was visited by 600-700 unique users daily.
 At the time of v5.0 release, the site had just over 1500 registered users.
 
-![Statistics from Yandex.Metrika](kbyte_metrika.png)
+![Statistics from Yandex.Metrika](kbyte_metrika.png)  
 *Statistics from Yandex.Metrika*
 
 In addition to external tools for tracking user activity (such as Yandex.Metrika, Google Analytics), I was interested in collecting data using my own tools.
 But this required storing and processing an incredible amount of data!
 
-![Internal statistics](kbyte_internal.png)
+![Internal statistics](kbyte_internal.png)  
 *Internal statistics*
 
 The server maintenance process has been automated. I made several console applications using C#.
