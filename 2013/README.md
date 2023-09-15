@@ -1,6 +1,6 @@
 # 2013
 
-In 2013, I created my first programming video tutorials to promote the [Kbyte.Ru](../2010/kbyte.md) project.
+In 2013, I created my first programming video tutorials to promote the [Kbyte.Ru](../2010/assets/kbyte.md) project.
 
 I also began to pay more attention to client-side programming and my code was no longer a chaotic collection of script files but became more monolithic.
 
