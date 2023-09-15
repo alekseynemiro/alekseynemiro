@@ -6,5 +6,5 @@
 > В этой статье рассмотрен процесс создания визуального менеджера файлов в **Silverlight 4.0** на базе элемента `ListBox` с использованием наследования.
 > Описан метод выполнения асинхронных HTTP-запросов при помощи классов `HttpWebRequest` и `HttpWebResponse`, а также базовые операции работы с файлами и папками.
 
-**:eyes: [PDF](FileManager_Silverlight.pdf)  
-**:floppy_disk: [Source code](../assets/FileManager.zip)
+**:eyes: [PDF](FileManager_Silverlight.pdf)**  
+**:floppy_disk: [Source code](../assets/FileManager.zip)**
