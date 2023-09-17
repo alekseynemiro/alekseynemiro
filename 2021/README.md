@@ -28,5 +28,8 @@ I stopped working on my own web projects due to lack of time.
 :page_facing_up: [Easy way to remove branches from GitHub repos](articles/branch-remover.md)
 
 ---
+[< 2020](/2020) &nbsp; **2021** &nbsp; [2022 >](/2022)
+
+---
 Aleksey Nemiro  
 2023-09-17

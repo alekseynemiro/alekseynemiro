@@ -51,5 +51,8 @@ At the end of the year I had to stop my activities due to my military service.
 :page_facing_up: [Основы SQL](articles/SQL.md) :ru:
 
 ---
+[< 2002](/2002) &nbsp; **2003** &nbsp; [2004 >](/2004)
+
+---
 Aleksey Nemiro  
 2023-09-09

@@ -25,5 +25,8 @@ I wrote code that drew one or more frames, and then I recorded the video on a VH
 Sometimes I separately added an audio stream from a tape recorder.
 
 ---
+[< 1998](/1998) &nbsp; **1999** &nbsp; [2000 >](/2000)
+
+---
 Aleksey Nemiro  
 2023-09-05

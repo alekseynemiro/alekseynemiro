@@ -40,5 +40,8 @@ The new version of the API was implemented using the Web API (ASP.NET MVC, C#) a
 :tv: [Simple file manager for Dropbox in C#](https://www.youtube.com/watch?v=fcT-Jt8rcdY)
 
 ---
+[< 2014](/2014) &nbsp; **2015** &nbsp; [2016 >](/2016)
+
+---
 Aleksey Nemiro  
 2023-09-15

@@ -97,5 +97,8 @@ I created widgets for placement on websites. Also, I created a user interface fo
 :page_facing_up: [User roles in Web applications](articles/User_roles.md)
 
 ---
+[< 2017](/2017) &nbsp; **2018** &nbsp; [2019 >](/2019)
+
+---
 Aleksey Nemiro  
 2023-09-15

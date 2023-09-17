@@ -29,5 +29,8 @@ This was the beginning of my journey into the world of programming.
 ![Fragment of programming instructions from Chinese brothers](assets/instruction.jpg)
 
 ---
+**1998** &nbsp; [1999 >](/1999)
+
+---
 Aleksey Nemiro  
 2023-09-05

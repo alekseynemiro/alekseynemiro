@@ -62,5 +62,8 @@ We used the Bot Framework as a reference point. But the project architecture was
 :page_facing_up: [Users Authorization through OAuth in .NET Framework](articles/OAuth.md)
 
 ---
+[< 2015](/2015) &nbsp; **2016** &nbsp; [2017 >](/2017)
+
+---
 Aleksey Nemiro  
 2023-09-15

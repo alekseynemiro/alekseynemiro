@@ -27,5 +27,8 @@ Over time, I got used to it and learned to work better with people.
 At the end of the year, I had some time for myself and made a small [keyboard trainer](assets/keyboard_trainer.md).
 
 ---
+[< 2003](/2003) &nbsp; **2004** &nbsp; [2005 >](/2005)
+
+---
 Aleksey Nemiro  
 2023-09-09

@@ -58,5 +58,8 @@ I also did not forget about my old projects, and in 2006 I released the last ver
 :page_facing_up: [Форум своими руками на ASP](articles/Creation_forum_using_Classic_ASP.md) :ru:
 
 ---
+[< 2005](/2005) &nbsp; **2006** &nbsp; [2007 >](/2007)
+
+---
 Aleksey Nemiro  
 2023-09-09

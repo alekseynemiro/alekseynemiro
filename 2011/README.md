@@ -66,5 +66,8 @@ To some extent, this was a continuation of the development of the [BogRay.ru](..
 :page_facing_up: [Загрузка файлов на сайт по протоколу HTTP на примере depositfiles.com](articles/Depositfiles.md) :ru:
 
 ---
+[< 2010](/2010) &nbsp; **2011** &nbsp; [2012 >](/2012)
+
+---
 Aleksey Nemiro  
 2023-09-12

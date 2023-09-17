@@ -53,5 +53,8 @@ The main goal of the project was to create a unified data storage and its subseq
 :page_facing_up: [Авторизация по протоколу OAuth в проектах .NET Framework](articles/OAuth.md)
 
 ---
+[< 2013](/2013) &nbsp; **2014** &nbsp; [2015 >](/2015)
+
+---
 Aleksey Nemiro  
 2023-09-13

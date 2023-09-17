@@ -54,5 +54,8 @@ The first time I learned Visual Basic was by trial and error.
 A little later, I bought a small book on the basics of Visual Basic, which served me for many years.
 
 ---
+[< 1999](/1999) &nbsp; **2000** &nbsp; [2001 >](/2001)
+
+---
 Aleksey Nemiro  
 2023-09-05

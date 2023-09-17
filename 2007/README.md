@@ -45,5 +45,8 @@ We have integrated with various services providing travel services. Including: A
 :page_facing_up: [PHP: Шаблоны – это несложно!](articles/PHP_Templates.md) :ru:
 
 ---
+[< 2006](/2006) &nbsp; **2007** &nbsp; [2008 >](/2008)
+
+---
 Aleksey Nemiro  
 2023-09-10

@@ -29,5 +29,8 @@ But all the same, offline sources of information dominated and there were few of
 Trial and error is my way.
 
 ---
+[< 2000](/2000) &nbsp; **2001** &nbsp; [2002 >](/2002)
+
+---
 Aleksey Nemiro  
 2023-09-07

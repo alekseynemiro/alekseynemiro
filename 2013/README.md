@@ -28,5 +28,8 @@ At the end of the year, I relocated from St. Petersburg (Russia) to Yoshkar-Ola 
 :tv: [Реализация настроек приложения в проектах Windows Forms](https://www.youtube.com/watch?v=_s_XSiRTL90) :ru:
 
 ---
+[< 2012](/2012) &nbsp; **2013** &nbsp; [2014 >](/2014)
+
+---
 Aleksey Nemiro  
 2023-09-13

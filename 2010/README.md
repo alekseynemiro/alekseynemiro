@@ -38,5 +38,8 @@ I also had experience integrating with HotelsPro and RZD.
 :page_facing_up: [Ведение журнала изменений объектов в .NET Framework](articles/ObjectsLog.md) :ru:
 
 ---
+[< 2009](/2009) &nbsp; **2010** &nbsp; [2011 >](/2011)
+
+---
 Aleksey Nemiro  
 2023-09-11

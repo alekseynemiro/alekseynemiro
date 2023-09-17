@@ -34,5 +34,8 @@ Also, I did not forget [why I decided to become a programmer](../1998) and activ
 But there were a couple more projects: [Jager 3](assets/jager3) and [W.I.D](assets/wid).
 
 ---
+[< 2001](/2001) &nbsp; **2002** &nbsp; [2003 >](/2003)
+
+---
 Aleksey Nemiro  
 2023-09-07

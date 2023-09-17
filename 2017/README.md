@@ -56,5 +56,8 @@ In the second half of 2017, we released the first MVP (minimum viable product) o
 :star: [Football simulation](https://github.com/meet-aleksey/php-football-simulation)
 
 ---
+[< 2016](/2016) &nbsp; **2017** &nbsp; [2018 >](/2018)
+
+---
 Aleksey Nemiro  
 2023-09-15

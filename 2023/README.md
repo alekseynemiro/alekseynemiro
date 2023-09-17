@@ -13,3 +13,6 @@ In progress...
 :page_facing_up: [Word wrapping issue in HorizontalStackLayout component in MAUI projects](articles/MAUI_HorizontalStackLayout.md)  
 :page_facing_up: [How to implement IDisposable in view models in MAUI projects](articles/MAUI_IDisposable.md)  
 :page_facing_up: [Реализация IDisposable в моделях представлений в проектах MAUI](articles/MAUI_IDisposable_ru.md) :ru:
+
+---
+[< 2022](/2022) &nbsp; **2023**

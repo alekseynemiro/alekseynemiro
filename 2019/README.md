@@ -59,5 +59,8 @@ In any unclear situation, go to Karelia (Russia). There is no internet there.
 ![Karelia](assets/karelia.jpg)
 
 ---
+[< 2018](/2018) &nbsp; **2019** &nbsp; [2020 >](/2020)
+
+---
 Aleksey Nemiro  
 2023-09-16

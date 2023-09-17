@@ -15,5 +15,8 @@ If web projects are not constantly supported and developed, they will inevitably
 I expected to quit by the end of the year, but the company convinced me to stay until the spring. And I stayed.
 
 ---
+[< 2021](/2021) &nbsp; **2022** &nbsp; [2023 >](/2023)
+
+---
 Aleksey Nemiro  
 2023-09-17

@@ -32,5 +32,8 @@ I relocated to the city of Yoshkar-Ola (Republic of Mari El, Russia).
 :page_facing_up: [Вывод картинок в ASP .NET MVC](articles/ASPNETMVC_Images.md) :ru:
 
 ---
+[< 2008](/2008) &nbsp; **2009** &nbsp; [2010 >](/2010)
+
+---
 Aleksey Nemiro  
 2023-09-11
