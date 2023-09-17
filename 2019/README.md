@@ -29,7 +29,7 @@ It so happened that all the code began to pass through me. I reviewed absolutely
 
 Colleagues said that I was strict. But I don't agree with them.
 
-![Bear](assets/bear.jpg)
+![Bear](assets/spb_bear.jpg)
 
 I never demanded the impossible from people and often turned a blind eye to minor shortcomings.
 
