@@ -1,4 +1,4 @@
-| [![Aleksey Nemiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekseynemiro)](https://github.com/alekseynemiro) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseynemiro&hide=java,ruby,objective-c,objective-c%2B%2B)](https://github.com/alekseynemiro) |
+| [![Aleksey Nemiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekseynemiro)](https://github.com/alekseynemiro) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseynemiro&hide=java,ruby,objective-c,objective-c%2B%2B,kotlin)](https://github.com/alekseynemiro) |
 | - | - |
 
 <sup>The following table presents my path in programming (curriculum vitae) and my public activities.</sup>  
