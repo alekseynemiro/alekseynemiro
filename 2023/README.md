@@ -4,6 +4,7 @@ In progress...
 
 ## Applications for Android
 
+:star: [RussianPlateCodes](https://github.com/alekseynemiro/russianplatecodes)  
 :star: [Multi-duper Stopwatch](https://github.com/alekseynemiro/multi-duper-stopwatch)  
 :star: [TapPlayer](https://github.com/alekseynemiro/tapplayer)
 
