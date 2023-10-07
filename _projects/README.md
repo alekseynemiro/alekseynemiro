@@ -2,7 +2,7 @@
 
 *Updated: 2023-10-07 (yyyy-mm-dd)*
 
-This file contains all projects, including archived ones.
+This file contains all public projects, including archived ones.
 
 See file [LIVE.md](LIVE.md) if you want to see live projects only.
 
