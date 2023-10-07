@@ -4,7 +4,7 @@
 
 This file contains a list of public projects that remain relevant today or are under active development and/or support.
 
-See also the [list of all projects](README.md).
+See also the [list of all public projects](README.md).
 
 | | |
 |-|-|
