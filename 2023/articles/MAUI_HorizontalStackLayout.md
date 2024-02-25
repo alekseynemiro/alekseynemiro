@@ -231,7 +231,7 @@ This works great. Although of course, this solution is more complicated than whe
 *Perfect result.*
 
 The source code can be found at the following link:  
-https://github.com/samples-kit/maui-horizontalstacklayout-linebreakmode
+https://github.com/alekseynemiro/knowledgebase/tree/master/csharp/maui/MauiHorizontalStackLayoutLineBreakMode
 
 ---
 Aleksey Nemiro  
