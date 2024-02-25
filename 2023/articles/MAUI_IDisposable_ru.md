@@ -57,7 +57,7 @@ builder.Services.AddPage<EtcPage>();
 ```
 
 Пример проекта можно найти по следующей ссылке:  
-https://github.com/samples-kit/maui-viewmodel-disposable
+https://github.com/alekseynemiro/knowledgebase/tree/master/csharp/maui/MauiViewModelDisposable
 
 ---
 Aleksey Nemiro  
