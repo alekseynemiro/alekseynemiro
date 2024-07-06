@@ -4,7 +4,7 @@
 
 My collaboration with ClearScale ended at the end of May.
 
-[Aleksey Nemiro's contribution to ClearScale](assets/contributions.gif)
+![Aleksey Nemiro's contribution to ClearScale](assets/contributions.gif)
 
 I worked for the company for five years. It's a fact, but during this time I have never been on vacation.
 Strictly speaking, in all my seventeen years of commercial development practice, I have never been on vacation.
@@ -27,7 +27,7 @@ I was invited to an interview for a C# developer position.
 I failed the interview miserably. This is not surprising, because I didn't even prepare for it.
 I was just curious to know how interviews go because I have very little experience in this matter.
 
-[First fail](assets/2023-09-28_ITO_Fail.png)
+![First fail](assets/2023-09-28_ITO_Fail.png)
 
 I decided to take a break and take time to prepare for interviews. But there was one problem.
 I'm a programmer and I figured out how to better prepare for an interview. Hell yes, I started writing code!
@@ -42,7 +42,7 @@ All interview participants were interested in finding out what I know and can do
 Although I did not answer all the questions, it was probably clear that my stated programming experience was true.
 I received an offer the same day.
 
-[First Job Offer](assets/2023-10-17_Job_Offer.png)
+![First Job Offer](assets/2023-10-17_Job_Offer.png)
 
 I accepted the offer and started working at Finam.
 
