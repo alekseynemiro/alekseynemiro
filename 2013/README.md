@@ -17,6 +17,9 @@ This year I also created my account on [GitHub.com](https://github.com/alekseyne
 
 At the end of the year, I relocated from St. Petersburg (Russia) to Yoshkar-Ola (Republic of Mari El, Russia).
 
+_Aleksey Nemiro  
+2023-09-13_
+
 ## Applications for Windows
 
 :star: [FoxTools Screen Shooter](https://github.com/foxtools-ru/screen-shooter)
@@ -29,7 +32,3 @@ At the end of the year, I relocated from St. Petersburg (Russia) to Yoshkar-Ola 
 
 ---
 [< 2012](/2012) &nbsp; **2013** &nbsp; [2014 >](/2014)
-
----
-Aleksey Nemiro  
-2023-09-13

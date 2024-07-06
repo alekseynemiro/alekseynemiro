@@ -47,6 +47,9 @@ I also actively gained frontend skills using TypeScript, SCSS, LESS, as well as 
 I also continued to work on our joint project to implement a unified messaging system with bots support.
 In the second half of 2017, we released the first MVP (minimum viable product) of this project.
 
+_Aleksey Nemiro  
+2023-09-15_
+
 ## Solutions for .NET Framework
 
 :star: [Nemiro.OAuth v1.13](https://github.com/nemiro-net/nemiro.oauth/tree/v1.13)
@@ -57,7 +60,3 @@ In the second half of 2017, we released the first MVP (minimum viable product) o
 
 ---
 [< 2016](/2016) &nbsp; **2017** &nbsp; [2018 >](/2018)
-
----
-Aleksey Nemiro  
-2023-09-15

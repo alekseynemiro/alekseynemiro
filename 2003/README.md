@@ -25,6 +25,9 @@ It was really interesting and I made [some progress in this matter](assets/game)
 
 At the end of the year I had to stop my activities due to my military service.
 
+_Aleksey Nemiro  
+2023-09-09_
+
 ## Applications for Windows
 
 :star: [Drawing Hours v3.0-v3.4](assets/drawing_hours.md) - skins for the standard clock on the Windows taskbar  
@@ -52,7 +55,3 @@ At the end of the year I had to stop my activities due to my military service.
 
 ---
 [< 2002](/2002) &nbsp; **2003** &nbsp; [2004 >](/2004)
-
----
-Aleksey Nemiro  
-2023-09-09

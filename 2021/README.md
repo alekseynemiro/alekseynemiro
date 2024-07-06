@@ -18,6 +18,9 @@ I was interested in the possibility of creating cross-platform applications.
 
 I stopped working on my own web projects due to lack of time.
 
+_Aleksey Nemiro  
+2023-09-17_
+
 ## Node.js
 
 :star: [branch-remover](https://github.com/sfm-tools/branch-remover)
@@ -29,7 +32,3 @@ I stopped working on my own web projects due to lack of time.
 
 ---
 [< 2020](/2020) &nbsp; **2021** &nbsp; [2022 >](/2022)
-
----
-Aleksey Nemiro  
-2023-09-17

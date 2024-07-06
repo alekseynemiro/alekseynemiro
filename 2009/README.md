@@ -22,6 +22,9 @@ We used the new ASP.NET MVC framework for the first time.
 On September 15, 2009, I left my hometown of Vladivostok.
 I relocated to the city of Yoshkar-Ola (Republic of Mari El, Russia).
 
+_Aleksey Nemiro  
+2023-09-11_
+
 ## Applications for Windows
 
 :star: [MyMoney](assets/mymoney.md)  
@@ -33,7 +36,3 @@ I relocated to the city of Yoshkar-Ola (Republic of Mari El, Russia).
 
 ---
 [< 2008](/2008) &nbsp; **2009** &nbsp; [2010 >](/2010)
-
----
-Aleksey Nemiro  
-2023-09-11

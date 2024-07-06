@@ -30,6 +30,9 @@ And also I continued working at Arimsoft. We worked on creating new web projects
 
 We have integrated with various services providing travel services. Including: Amadeus, Tourico Holidays, GTA Travel, Acase, Galileo GDS, Sirena (in Russian: Сирена - СИстема РЕзервирования На Авиалиниях).
 
+_Aleksey Nemiro  
+2023-09-10_
+
 ## Solutions for ASP.NET
 
 :star: [DateSelectControl](assets/dateselectcontrol.md)
@@ -46,7 +49,3 @@ We have integrated with various services providing travel services. Including: A
 
 ---
 [< 2006](/2006) &nbsp; **2007** &nbsp; [2008 >](/2008)
-
----
-Aleksey Nemiro  
-2023-09-10

@@ -21,6 +21,9 @@ The [VBNet.Su](../2008/assets/vbnet.md) project was created using early versions
 Also, I released a new API for [FoxTools.ru](assets/foxtools.md).
 The new version of the API was implemented using the Web API (ASP.NET MVC, C#) and was freely available.
 
+_Aleksey Nemiro  
+2023-09-15_
+
 ## Solutions for .NET Framework
 
 :star: [Nemiro.OAuth v1.6-v1.10](https://github.com/nemiro-net/nemiro.oauth/tree/v1.10)  
@@ -41,7 +44,3 @@ The new version of the API was implemented using the Web API (ASP.NET MVC, C#) a
 
 ---
 [< 2014](/2014) &nbsp; **2015** &nbsp; [2016 >](/2016)
-
----
-Aleksey Nemiro  
-2023-09-15

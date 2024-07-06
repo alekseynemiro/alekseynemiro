@@ -26,6 +26,9 @@ This year I had experience integrating with different payment systems: PayPal, P
 
 I also had experience integrating with HotelsPro and RZD.
 
+_Aleksey Nemiro  
+2023-09-11_
+
 ## Web projects
 
 :star: [Kbyte.Ru v5.0](assets/kbyte.md)  
@@ -39,7 +42,3 @@ I also had experience integrating with HotelsPro and RZD.
 
 ---
 [< 2009](/2009) &nbsp; **2010** &nbsp; [2011 >](/2011)
-
----
-Aleksey Nemiro  
-2023-09-11

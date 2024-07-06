@@ -44,6 +44,9 @@ I used PL/pgSQL to write stored procedures and functions.
 
 We used the Bot Framework as a reference point. But the project architecture was quite flexible and we were not tied to any specific platform.
 
+_Aleksey Nemiro  
+2023-09-15_
+
 ## Solutions for .NET Framework
 
 :star: [Nemiro.OAuth v1.11-v1.12](https://github.com/nemiro-net/nemiro.oauth/tree/v1.12)  
@@ -63,7 +66,3 @@ We used the Bot Framework as a reference point. But the project architecture was
 
 ---
 [< 2015](/2015) &nbsp; **2016** &nbsp; [2017 >](/2017)
-
----
-Aleksey Nemiro  
-2023-09-15

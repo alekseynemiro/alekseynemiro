@@ -43,6 +43,9 @@ This free program made in Windows Forms (C#) enjoyed some popularity.
 To promote my programs, I needed websites. And to solve this problem I made a website builder - [ReleaseBox.ru](assets/releasebox.md).
 To some extent, this was a continuation of the development of the [BogRay.ru](../2010/assets/blogray.md) platform.
 
+_Aleksey Nemiro  
+2023-09-12_
+
 ## Applications for Windows
 
 :star: [EasyWatermark](assets/easywatermark.md)
@@ -67,7 +70,3 @@ To some extent, this was a continuation of the development of the [BogRay.ru](..
 
 ---
 [< 2010](/2010) &nbsp; **2011** &nbsp; [2012 >](/2012)
-
----
-Aleksey Nemiro  
-2023-09-12

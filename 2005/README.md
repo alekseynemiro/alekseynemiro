@@ -20,6 +20,9 @@ Also, I developed programs, casual games, and components using Visual Basic 6.0.
 
 I retired to the reserves in the fall of 2005 with the rank of starshina 2nd class (junior sergeant).
 
+_Aleksey Nemiro  
+2023-09-09_
+
 ## Applications for Windows
 
 :star: [Keyboard Statistics](assets/keyboard_statistics.md)  
@@ -37,7 +40,3 @@ I retired to the reserves in the fall of 2005 with the rank of starshina 2nd cla
 
 ---
 [< 2004](/2004) &nbsp; **2005** &nbsp; [2006 >](/2006)
-
----
-Aleksey Nemiro  
-2023-09-09

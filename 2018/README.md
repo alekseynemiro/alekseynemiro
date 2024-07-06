@@ -78,6 +78,9 @@ I also continued to develop the communications platform.
 I implemented support for new messaging system providers.
 I created widgets for placement on websites. Also, I created a user interface for building dialogues for bots.
 
+_Aleksey Nemiro  
+2023-09-15_
+
 ## Components for Windows Forms (.NET Framework)
 
 :star: [GradientColorPicker](https://github.com/meet-aleksey/GradientColorPicker)  
@@ -98,7 +101,3 @@ I created widgets for placement on websites. Also, I created a user interface fo
 
 ---
 [< 2017](/2017) &nbsp; **2018** &nbsp; [2019 >](/2019)
-
----
-Aleksey Nemiro  
-2023-09-15

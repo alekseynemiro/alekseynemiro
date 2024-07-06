@@ -30,6 +30,9 @@ At the end of the year I released another website in PHP - [VBNet.Su](assets/vbn
 
 Also, this year I started writing articles for the paper magazine Hard'n'Soft on computer topics.
 
+_Aleksey Nemiro  
+2023-09-10_
+
 ## Solutions for .NET Framework
 
 :star: [AutoSubscribe](assets/autosubscribe.md)  
@@ -52,7 +55,3 @@ Also, this year I started writing articles for the paper magazine Hard'n'Soft on
 
 ---
 [< 2007](/2007) &nbsp; **2008** &nbsp; [2009 >](/2009)
-
----
-Aleksey Nemiro  
-2023-09-10

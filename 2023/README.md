@@ -52,6 +52,9 @@ My work was related to web development using ASP.NET Blazor (C#). This was my fi
 
 I spent the last days of 2023 in the maternity hospital with my wife Kate. On December 31st we had a son.
 
+_Aleksey Nemiro  
+2024-05-31_
+
 ## Beginning
 
 :baby: Son
@@ -69,9 +72,6 @@ I spent the last days of 2023 in the maternity hospital with my wife Kate. On De
 :page_facing_up: [How to implement IDisposable in view models in MAUI projects](articles/MAUI_IDisposable.md)  
 :page_facing_up: [Реализация IDisposable в моделях представлений в проектах MAUI](articles/MAUI_IDisposable_ru.md) :ru:  
 :page_facing_up: [Подпись изменений в Git](articles/Git_GPG_ru.md) :ru:
-
-_Aleksey Nemiro  
-2024-05-31_
 
 ---
 [< 2022](/2022) &nbsp; **2023** &nbsp; [2024 >](/2024)

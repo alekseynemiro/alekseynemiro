@@ -13,6 +13,9 @@ This allowed me to release an API for [FoxTools.ru](assets/foxtools.md).
 
 In 2012 I also began to take my first steps in creating my own musical compositions.
 
+_Aleksey Nemiro  
+2023-09-13_
+
 ## Solutions for Silverlight
 
 :star: [Silverlight File Manager](assets/file_manager.md)
@@ -30,7 +33,3 @@ In 2012 I also began to take my first steps in creating my own musical compositi
 
 ---
 [< 2011](/2011) &nbsp; **2012** &nbsp; [2013 >](/2013)
-
----
-Aleksey Nemiro  
-2023-09-13

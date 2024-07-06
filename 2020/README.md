@@ -29,13 +29,12 @@ To automate some things, I created scripts in Bash and Node.js
 One of these scripts eventually became a full-fledged console application.
 **[bighut-relabel](https://github.com/sfm-tools/bighut-relabel)** was my first open-source npm package.
 
+_Aleksey Nemiro  
+2023-09-17_
+
 ## Node.js
 
 :star: [bighut-relabel](https://github.com/sfm-tools/bighut-relabel)
 
 ---
 [< 2019](/2019) &nbsp; **2020** &nbsp; [2021 >](/2021)
-
----
-Aleksey Nemiro  
-2023-09-17

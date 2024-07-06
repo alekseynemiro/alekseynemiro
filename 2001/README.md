@@ -28,9 +28,8 @@ But all the same, offline sources of information dominated and there were few of
 
 Trial and error is my way.
 
----
-[< 2000](/2000) &nbsp; **2001** &nbsp; [2002 >](/2002)
+_Aleksey Nemiro  
+2023-09-07_
 
 ---
-Aleksey Nemiro  
-2023-09-07
+[< 2000](/2000) &nbsp; **2001** &nbsp; [2002 >](/2002)

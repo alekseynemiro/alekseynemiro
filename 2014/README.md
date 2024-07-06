@@ -42,6 +42,9 @@ This year I also started developing a project - a database of travel objects.
 It was a 90% SQL Server level project, with database programming using T-SQL.
 The main goal of the project was to create a unified data storage and its subsequent delivery to clients.
 
+_Aleksey Nemiro  
+2023-09-13_
+
 ## Solutions for .NET Framework
 
 :star: [Nemiro.OAuth v1.1-v1.5](https://github.com/nemiro-net/nemiro.oauth/tree/v1.5)  
@@ -54,7 +57,3 @@ The main goal of the project was to create a unified data storage and its subseq
 
 ---
 [< 2013](/2013) &nbsp; **2014** &nbsp; [2015 >](/2015)
-
----
-Aleksey Nemiro  
-2023-09-13

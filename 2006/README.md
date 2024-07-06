@@ -39,6 +39,9 @@ In October, I joined the International Union of Internet Activists [EZHE](https:
 
 I also did not forget about my old projects, and in 2006 I released the last version of [Drawing Hours](assets/drawing_hours.md).
 
+_Aleksey Nemiro  
+2023-09-09_
+
 ## Applications for Windows
 
 :star: [Drawing Hours v4.0](assets/drawing_hours.md)
@@ -59,7 +62,3 @@ I also did not forget about my old projects, and in 2006 I released the last ver
 
 ---
 [< 2005](/2005) &nbsp; **2006** &nbsp; [2007 >](/2007)
-
----
-Aleksey Nemiro  
-2023-09-09
