@@ -1,6 +1,7 @@
 title: Aleksey Nemiro's curriculum vitae
-url: https://alekseynemiro.github.io
-baseurl: /alekseynemiro/
+domain: www.nemiro.net
+url: https://www.nemiro.net
+baseurl: ""
 markdown: kramdown
 plugins:
   - jemoji
