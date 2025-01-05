@@ -1,3 +1,4 @@
+baseurl: /alekseynemiro/
 markdown: kramdown
 plugins:
   - jemoji
